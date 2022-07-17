@@ -1,0 +1,12 @@
+﻿<group>Allgemein</group><ul>
+<li><link "General">App *AppName*</link></li>
+</ul>
+<group>Einrichtung</group><ul>
+<li><link "AppSetup">App Einrichtung</link></li>
+</ul>
+<group>Aufgaben</group><ul>
+<li><link "WorkingWithTheApp">Arbeiten mit der App</link></li>
+</ul>
+<group>Anhang</group><ul>
+<li><link "ReleaseNotes">Versionshinweise</link></li>
+</ul>

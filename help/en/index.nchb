@@ -1,0 +1,12 @@
+﻿<group>General</group><ul>
+<li><link "General">App *AppName*</link></li>
+</ul>
+<group>Setup</group><ul>
+<li><link "AppSetup">App Setup</link></li>
+</ul>
+<group>Tasks</group><ul>
+<li><link "WorkingWithTheApp">Working with the App</link></li>
+</ul>
+<group>Appendix</group><ul>
+<li><link "ReleaseNotes">Release Notes</link></li>
+</ul>

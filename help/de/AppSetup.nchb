@@ -1,0 +1,17 @@
+﻿<h1>App Einrichtung</h1>
+Kurze Beschreibung der Einrichtungstabelle.
+
+<table>
+<caption><h2>Allgemein, <fields></h2></caption>
+<tr><td>Feldname 1</td><td>Beschreibung Feldname 1</td></tr>
+<tr><td>Feldname 2</td><td>Beschreibung Feldname 2</td></tr>
+<tr><td>feldname 3</td><td>Beschreibung Feldname 3</td></tr>
+</table>
+
+<h2><actions></h2>
+<ul>
+<li><h3>Bezeichnung PageAction 1</h3>
+Beschreibung PageAction 1
+<li><h3>Bezeichnung PageAction 2</h3>
+Beschreibung PageAction 2</li>
+</ul>

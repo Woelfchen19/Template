@@ -1,0 +1,23 @@
+{
+    "CRS.ObjectNamePrefix": NAMENSPREFIX,
+    "CRS.ObjectNameSuffix": "NVX",
+    "CRS.FileNamePattern": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
+    "CRS.FileNamePatternExtensions": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
+    "CRS.FileNamePatternPageCustomizations": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
+    "al.enableCodeAnalysis": true,
+    "al.codeAnalyzers": [
+        "${CodeCop}",
+        "${AppSourceCop}",
+        "${UICop}",
+        "${PerTenantExtensionCop}"
+    ],
+    "al.ruleSetPath": ".vscode\\ruleset.json",
+    "editor.codeActionsOnSave": {
+        "source.fixAll": true
+    },
+    "alOutline.codeActionsOnSave": [
+        "SortVariables",
+        "SortProperties",
+        "SortTableFields"
+        ]
+}

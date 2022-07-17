@@ -1,0 +1,17 @@
+﻿<h1>App Setup</h1>
+Brief description of the setup table.
+
+<table>
+<caption><h2>General, <fields></h2></caption>
+<tr><td>Fieldname 1</td><td>Description Fieldname 1</td></tr>
+<tr><td>Fieldname 2</td><td>Description Fieldname 2</td></tr>
+<tr><td>Fieldname 3</td><td>Description Fieldname 3</td></tr>
+</table>
+
+<h2><actions></h2>
+<ul>
+<li><h3>Name PageAction 1</h3>
+Description PageAction 1
+<li><h3>Bezeichnung PageAction 2</h3>
+Description PageAction 2</li>
+</ul>
